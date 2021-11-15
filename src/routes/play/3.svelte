@@ -75,7 +75,7 @@
 		</ul>
 		<div class="flex justify-between">
 			<a href="/play/2">prev</a>
-			<a href="/play/4">next</a>
+			<a href="/">done</a>
 		</div>
 	</div>
 </div>
